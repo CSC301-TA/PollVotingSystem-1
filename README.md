@@ -110,7 +110,7 @@ Note: The app installation assumes you already have Shibboleth installed on the 
 REACT_APP_BACKEND_URL="https://poll.utm.utoronto.ca"
 ```
 
-2. Setting up the server `.env` file (Placed in the root of your `server` folder)
+2. Setting up the server `.env` file (Placed in the root of your `server` folder).
 
 ```
 PORT=3001
