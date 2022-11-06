@@ -104,7 +104,7 @@ General Flow:
 ### Running the app (on a server)
 Note: The app installation assumes you already have Shibboleth installed on the server.
 
-1. Setting up the client `.env` file (Placed in the root of your `client` folder)
+1. Setting up the client `.env` file (Placed in the root of your `client` folder).
 
 ```
 REACT_APP_BACKEND_URL="https://poll.utm.utoronto.ca"
